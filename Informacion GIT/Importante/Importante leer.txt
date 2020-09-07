@@ -1,4 +1,4 @@
 -Nunca pushear a la master
--Vamos a trabajar en notepad hasta unos dias antes de la entrega, para facilitar el uso de GIT
+-Vamos a trabajar en notepad(Primera_Entrega_Prototipo) hasta unos dias antes de la entrega, para facilitar el uso de GIT
 -Si necesitamos tener los cambios que alguno mas hizo antes de seguir con lo que estoy haciendo, guardan lo que hicieron hasta el momento y lo pushean al repositorio
 me avisan asi mergeo con la master elimino la rama y volvemos a crear otra con todos los cambios
