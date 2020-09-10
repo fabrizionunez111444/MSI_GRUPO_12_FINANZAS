@@ -1,3 +1,4 @@
+//MERGE - 20200910153000//
 Relevamiento del Área de Finanzas SuperMami
 En la primera fase de nuestro trabajo analizamos el sector de Finanzas de la empresa SuperMami y reconocemos en él sus procesos internos
 y los encadenamientos que posee con el resto de las áreas de dicho supermercado.
