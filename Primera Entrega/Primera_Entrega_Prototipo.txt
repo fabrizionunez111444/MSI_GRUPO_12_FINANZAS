@@ -1,1 +1,41 @@
 Relevamiento del Área de Finanzas SuperMami
+Delimitación del sistema de estudio:
+En la primera fase de nuestro trabajo analizamos el sector de Finanzas de la empresa SuperMami y reconocemos en él sus procesos internos
+y los encadenamientos que posee con el resto de las áreas de dicho supermercado.
+El SuperMami es un supermecardo con formato mayorista-minorista en la zona sur de la ciudad, 
+ofreciendo productos con fuerte predominio de marcas de origen regional, en una relación justa entre precio y calidad. 
+Se apunta a satisfacer la necesidad de diversos sectores sociales, entre los que se incluyen los negocios de proximidad como despensas, autoservicios, grupos familiares y otros.
+Su área de finanzas se divide en el sector de Contabilidad y en el sector de Tesorería, con sus respectivos empleados capacitados para llevar a cabo las tareas.
+En el sector de contabilidad se realizan las tareas de:
+- Realización del listado de todas las cuentas que maneja la empresa, actualizandola a medida que sea necesario.
+- Realización de los asientos contables de manera diaria.
+- Realización de los ajustes contables.
+- Realización del Estado de Resultados.
+- Realización del Estado de Evolución del Patrimonio Neto.
+- Realización del Balance general.
+- Liquidación de impuestos y retenciones.
+- Liquidación de sueldos y jornales.
+- Gestión de los ingresos y gastos que tiene la empresa.
+- Realización de informes con la información listada anteriormente.
+- Reporte de cuentas por cobrar
+- Reporte de cuentas por pagar
+Por otro lado, el sector de tesorería de la empresa se realizan las tareas de:
+- Recibo de la plata recaudada en ventas.
+- Operaciones bancarias.
+- Realización de modelo de facturas.
+- Realización de modelo de tickets.
+- Realización de notas de crédito. (?)
+- Presupuestos. (?)
+- Realización de Remitos. (?)
+- Realización de Pago a proveedores.
+- Realización de Notas de débito.
+A continuación se detalla los procesos más importantes del área de finanzas con otras áreas de la empresa:
+- El área de Ventas se encarga del cierre de caja y envia la plata recaudada diariamente al sector finanzas, como así también, el detalle de cada una de estas transacciones (formas de pago, montos totales y montos individuales) y su documentación. 
+- El área de Compras luego de hacer el pedido de compra y recibirlo, se le encarga al sector contable reunir los documentos que constatan la compra 
+y la recepción (órdenes de compra, informe de recepción, remitos del proveedor). Luego, al recibir la factura, se hará el control y registro para quedar en el proceso de cuentas a pagar.
+- El área de Recursos Humanos envia al sector de finanzas el informe de los sueldos y jornales pagados para tener una correcta trasabilidad del flujo de dinero.
+- El área de Marketing y de Gerencia General, envia al área de finanzas el informe de los gastos que tuvo la empresa para tener una correcta trasabilidad del flujo de dinero.
+- El área de Finanzas le brinda al sector de Gerencia General información relevante sobre los ingresos, gastos, flujos de dinero, entre otros, para que esta área pueda hacer una correcta toma de decisiones.
+
+
+
