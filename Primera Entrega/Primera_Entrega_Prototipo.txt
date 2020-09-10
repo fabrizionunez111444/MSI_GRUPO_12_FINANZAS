@@ -6,35 +6,42 @@ ofreciendo productos con fuerte predominio de marcas de origen regional, en una 
 Se apunta a satisfacer la necesidad de diversos sectores sociales, entre los que se incluyen los negocios de proximidad como despensas, autoservicios, grupos familiares y otros.
 Su área de finanzas se divide en el sector de Contabilidad y en el sector de Tesorería, con sus respectivos empleados capacitados para llevar a cabo las tareas.
 En el sector de contabilidad se realizan las tareas de:
-- Realización del listado de todas las cuentas que maneja la empresa, actualizandola a medida que sea necesario y dejandolo asentado en un archivo excel.
-- Realización de los asientos contables de manera diaria a papel.
-- Realización de los ajustes contables a papel.
-- Realización del Estado de Resultados a papel.
-- Realización del Estado de Evolución del Patrimonio Neto a papel.
-- Realización del Balance general a papel.
-- Calculos y registros de liquidación de impuestos y retenciones de manera manual.
-- Calculos y registros de liquidación de sueldos y jornales de manera manual.
-- Gestión de los ingresos y gastos que tiene la empresa dejandolo asentado en un excel.
-- En base a la información anterior, de manera manual se realiza a través de un archivo Word informe sobre las cuentas a cobrar y a pagar.
-Por otro lado, el sector de tesorería de la empresa se realizan las tareas de:
-- Recibo de la plata recaudada en ventas, dejandolo asentado en un archivo excel.
-- Operaciones bancarias, dejandolo asentado en un archivo excel.
-- Realización de modelo de facturas manualmente.
-- Realización de modelo de tickets manualmente.
-- Realización de notas de crédito. (?)
-- Presupuestos. (?)
-- Realización de Remitos. (?)
-- Realización de Pago a proveedores, dejandolo asentado en un archivo excel.
-- Realización de Notas de débito manualmente.
-A continuación se detalla los procesos más importantes del área de finanzas con otras áreas de la empresa:
-- El área de Ventas se encarga del cierre de caja y envia la plata recaudada diariamente al sector finanzas, como así también, el detalle de cada una de estas transacciones (formas de pago, montos totales y montos individuales) y su documentación. 
-- El área de Compras luego de hacer el pedido de compra y recibirlo, se le encarga al sector contable reunir los documentos que constatan la compra 
-y la recepción (órdenes de compra, informe de recepción, remitos del proveedor). Luego, al recibir la factura, se hará el control y registro en papel para quedar en el proceso de cuentas a pagar.
-- El área de Recursos Humanos envia al sector de finanzas el informe de los sueldos y jornales pagados para tener una correcta trasabilidad del flujo de dinero.
-- El área de Marketing y de Gerencia General, envia al área de finanzas el informe de los gastos que tuvo la empresa para tener una correcta trasabilidad del flujo de dinero.
+- Realización del listado de todas las cuentas que maneja la empresa, actualizandola a medida que sea necesario.
+- Realización de los asientos contables de manera diaria.
+- Realización de los ajustes contables.
+- Realización del Estado de Resultados.
+- Realización del Estado de Evolución del Patrimonio Neto.
+- Realización del Balance general.
+- Gestión de los ingresos y gastos que tiene la empresa.
+- Informe sobre las cuentas a cobrar y pagar.
+- Calculos y registros de liquidación de impuestos y retenciones.
+- Calculos y registros de liquidación de sueldos y jornales.
+Lo actividades antes mencionadas se realizan en microsoft excel a medida que sea requerido por las necesidades del área.
+Por otro lado, el sector de tesorería del área de finanzas realiza las siguientes tareas:
+- Recibo de la plata recaudada en ventas al final de cada día.
+- Operaciones bancarias.
+- Realización de notas de crédito. 
+- Realización de Notas de débito.
+- Realización de Remitos. 
+- Realización de Pago a proveedores.
+Estas tareas listadas se dejan asentadas en un archivo de microsoft excel y las tareas a continuación son hechas de manera manual:
+- Realización de modelo de facturas.
+- Realización de modelo de tickets.
+Por último, detallamos los procesos más importantes del área de finanzas con otras áreas de la empresa:
+- El área de Ventas se encarga del cierre de caja y envia el dinero recaudado diariamente al sector de finanzas, como así también, los comprobantes de pago. 
+- El área de Compras realiza el pedido de mercadería y le encarga al sector tesorero reunir los documentos que constatan la compra 
+para proceder con la recepción de dicho pedido (órdenes de compra, informe de recepción, remitos del proveedor). Luego tesorería realiza los pagos de la factura y envia la documentación
+al sector contable a los fines de que quede asentado el proceso de compras y, a su vez, le informa al ára de compras que las facturas han sido abonadas para que ellos procedan con su circuito.
+- El área de Recursos Humanos envia al sector de finanzas el informe de los sueldos a pagar, tesorería libera el dinero requerido y contabilidad registra los pagos.
+- El área de Marketing y de Gerencia General, envia al área de finanzas el informe de los gastos que tuvo la empresa para que contabilidad lleve una correcta trasabilidad del flujo de dinero.
 - El área de Finanzas le brinda al sector de Gerencia General información relevante sobre los ingresos, gastos, flujos de dinero, entre otros, para que esta área pueda hacer una correcta toma de decisiones.
 
 
 Diagnóstico del Sistema:
+Si bien es un sistema que puede funcionar correctamente es un sistema obsoleto ya que todos usan el mismo archivo lo cual genera inseguridad en la integridad de datos, al 
+estar el riesgo de que.....
+Hay pérdidas de tiempo....
+
+
 
 
