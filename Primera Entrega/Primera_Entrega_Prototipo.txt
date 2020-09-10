@@ -1,5 +1,4 @@
 Relevamiento del Área de Finanzas SuperMami
-Delimitación del sistema de estudio:
 En la primera fase de nuestro trabajo analizamos el sector de Finanzas de la empresa SuperMami y reconocemos en él sus procesos internos
 y los encadenamientos que posee con el resto de las áreas de dicho supermercado.
 El SuperMami es un supermecardo con formato mayorista-minorista en la zona sur de la ciudad, 
@@ -38,4 +37,6 @@ y la recepción (órdenes de compra, informe de recepción, remitos del proveedo
 - El área de Finanzas le brinda al sector de Gerencia General información relevante sobre los ingresos, gastos, flujos de dinero, entre otros, para que esta área pueda hacer una correcta toma de decisiones.
 
 
+Diagnóstico del Sistema:
+...
 
