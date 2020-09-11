@@ -1,3 +1,21 @@
+Introducción
+En el presente trabajo se desarrolla un Sistema de Información en el marco de un Trabajo Práctico Integrador con caracteristicas formativas y evolutivas,
+planteado con el objetivo de cubrir las necesidades insastifechas del área de Finanzas de la empresa SuperMami, reconociendo en él sus procesos internos y 
+los encadenamientos que posee con el resto de los sectores de dicho supermercado.
+Partimos en base a un relevamiento del área, a través de un organigrama, diagramas de flujos de los diversos proceso de trabajo y listando sus funciones y
+la manera de llevarlas a cabo, lo cual, además de brindarnos la información necesaria para poder comprender el modus operandis de finanzas, 
+nos reflejó las carencias y fallas del Sistema actual implementado por el área, quedando detallado en nuestro diagnóstico del sistema. 
+A raíz de dicho Diagnóstico desarrollamos la propuesta de un Sistema de Información, que promete, a grande rasgos, 
+mejorar la toma de decisiones, eficacia, adaptabilidad, velocidad y, anteponiendo ante todo, la reducción de la incertidumbre brindando 
+la información que se requiere en el momento y situación oportuna.
+A su vez, en la formulación del objetivo exponemos la razón de ser del sistema de manera clara y especifica, del cual se desprenden los alcances,
+ quienes explican las funciones de cada elemento,
+por el cual está compuesto el sistema, para poder lograr el objetivo antes explicado y dejando asentados los requerimientos funcionales y no funcionales del mismo.
+Como se mencionó anteriormente, el presente trabajo se desarrolla el marco de un Trabajo Práctico Integrador de la materia Metodologia de Sistemas, haciendo uso de una metodología
+de trabajo ágil y usando herramientas tales como Git y Trello.
+A partir de aquí, hacemos, de manera grupal, exposición de nuestro proyecto.
+
+
 Relevamiento del Área de Finanzas SuperMami
 En la primera fase de nuestro trabajo analizamos el sector de Finanzas de la empresa SuperMami y reconocemos en él sus procesos internos
 y los encadenamientos que posee con el resto de las áreas de dicho supermercado.
