@@ -17,8 +17,6 @@ A partir de aquí, hacemos, de manera grupal, exposición de nuestro proyecto.
 
 
 Relevamiento del Área de Finanzas SuperMami
-En la primera fase de nuestro trabajo analizamos el sector de Finanzas de la empresa SuperMami y reconocemos en él sus procesos internos
-y los encadenamientos que posee con el resto de las áreas de dicho supermercado.
 El SuperMami es un supermecardo con formato mayorista-minorista en la zona sur de la ciudad, 
 ofreciendo productos con fuerte predominio de marcas de origen regional, en una relación justa entre precio y calidad. 
 Se apunta a satisfacer la necesidad de diversos sectores sociales, entre los que se incluyen los negocios de proximidad como despensas, autoservicios, grupos familiares y otros.
