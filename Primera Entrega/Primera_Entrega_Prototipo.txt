@@ -24,47 +24,50 @@ Las actividades antes mencionadas se realizan en Microsoft Excel a medida que se
 Por otro lado, el sector de tesorería del área de finanzas realiza las siguientes tareas:
 •	Operaciones bancarias.
 •	Realización de notas de crédito. 
-•	Realización de Notas de débito.
+•	Realización de notas de débito.
 •	Realización de Remitos. 
 •	Realización de Pago a proveedores.
 Estas tareas listadas se dejan asentadas en un archivo de Microsoft Excel y las tareas a continuación son hechas de manera manual:
 •	Realización de modelo de facturas.
 •	Realización de modelo de tickets.
-•	Financiamiento de los gastos realizados por otras áreas de la empresa.
-•	Recibo del dinero recaudado en ventas al final de cada día.
+•	Pago de los gastos realizados por otras áreas de la empresa.
+•	Recepción del dinero recaudado en ventas al final de cada día.
 Por último, detallamos los procesos más importantes del área de finanzas con otras áreas de la empresa:
 •	El área de Ventas se encarga del cierre de caja y envía el dinero recaudado diariamente al sector de finanzas, como así también, los comprobantes de pago, como lo muestra la Figura 2. 
-•	El área de Compras realiza el pedido de mercadería y le encarga al sector tesorero reunir los documentos que constatan la compra para proceder con la recepción de dicho pedido (órdenes de compra, informe de recepción, remitos del proveedor). Luego tesorería realiza los pagos de la factura y envía la documentación al sector contable a los fines de que quede asentado el proceso de compras y, a su vez, le informa al área de compras que las facturas han sido abonadas para que ellos procedan con su circuito. Indicado en la Figura 3
+•	El área de Compras realiza el pedido de mercadería y le encarga al sector de tesorería reunir los documentos que constatan la compra para proceder con la recepción de dicho pedido (órdenes de compra, informe de recepción, remitos del proveedor). Luego tesorería realiza los pagos de la factura y envía la documentación al sector contable a los fines de que quede asentado el proceso de compras y, a su vez, le informa al área de compras que las facturas han sido abonadas para que ellos procedan con su circuito. Indicado en la Figura 3
 •	El área de Recursos Humanos envía al sector de finanzas el informe de los sueldos a pagar, tesorería libera el dinero requerido y contabilidad registra los pagos. (Figura 4)
 •	El área de Marketing y de Gerencia General, envía al área de finanzas el informe de los gastos que tuvo la empresa, tesorería libera el dinero requerido y contabilidad registra los pagos para llevar una correcta trazabilidad del flujo de dinero, como podemos observar en la Figura 4. 
-•	El área de Finanzas le brinda al sector de Gerencia General información relevante sobre los ingresos, gastos, flujos de dinero, entre otros, para que esta área pueda hacer una correcta toma de decisiones.
+•	El área de Finanzas le remite al sector de Gerencia General toda la información sobre los ingresos, gastos, flujos de dinero, entre otros, para que esta área pueda hacer una correcta toma de decisiones.
  
 Figura 1
-<imagen>
 Organigrama del área de Finanzas de la empresa SuperMami
+<imagen>
 Nota: El gráfico representa la composición interna del sector de Finanzas en la empresa SuperMami.
  
 Figura 2
-<imagen>
 Proceso de Contabilidad de las Ventas
+<imagen> 
 Nota: El gráfico representa el proceso de contabilidad de las ventas, llevada a cabo por el área de Finanzas, con sus respectivas subáreas de Contabilidad y Tesorería, y la relación con el área de Ventas.
  
 Figura 3
-<imagen>
 Proceso de Contabilidad de las Compras
-Nota: El gráfico representa el proceso de contabilidad de las compras, llevada a cabo por el área de Finanzas, con sus respectivas subáreas de Contabilidad y Tesorería, y la relación con el área de Compras.
- 
-Figura 4
 <imagen>
+Nota: El gráfico representa el proceso de contabilidad de las compras, llevada a cabo por el área de Finanzas, con sus respectivas subáreas de Contabilidad y Tesorería, y la relación con el área de Compras.
+
+Figura 4
 Proceso de Contabilidad de Gastos y Sueldos
+<imagen> 
 Nota: El gráfico representa el proceso de contabilidad de los gastos y sueldos, llevada a cabo por el área de Finanzas, con sus respectivas subáreas de Contabilidad y Tesorería, y la relación con las áreas de Gerencia General, Marketing y Recursos Humanos.
 
-
-Diagnóstico del Sistema:
-Si bien es un sistema que puede funcionar correctamente es un sistema obsoleto ya que todos usan el mismo archivo lo cual genera inseguridad en la integridad de datos, al 
-estar el riesgo de que.....
-Hay pérdidas de tiempo....
-
-
+Diagnóstico del sistema
+El sector de contabilidad del área de Finanzas realiza el almacenamiento de datos por medio de Microsoft Excel, el cual es realizado por una sola persona (la Gerenta del área), 
+ya que no cuentan con un programa que permita la edición al mismo tiempo por otro usuario, lo que genera que la información vaya pasando de mano en mano 
+a través de varios archivos excel . La pérdida de alguna anotación puede traer varios inconvenientes en un área tan importante como la analizada. 
+A su vez, en el sector de tesorería también se realiza la documentación comercial en ficheros excel modificando los datos a medida que se lo requiera a mano, provocando demoras,
+problemas de tipeo y problemas de formateo del diseño.
+Tras analizar dicho funcionamiento se pueden observar distitnas vulnerabilidades en la integridad de datos, tales como la posibilidad de fallas de 
+seguridad, pérdidas de información, entre otros. Ya que si bien es un sistema que puede funcionar correctamente se trata de un sistema obsoleto y unipersonal.
+Todo lo antedicho trae aparejado una gran pérdida de tiempo, ya que la recolección de información y el traspaso de la misma al archivo excel es realizada
+una vez al día, no encontrándose de esta manera actualizada la información minuto a minuto, pudiendo existir diferencias en los saldos de las distintas cuentas.
 
 
