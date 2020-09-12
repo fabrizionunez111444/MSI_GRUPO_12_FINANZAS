@@ -4,7 +4,8 @@ En el presente trabajo se desarrolla un Sistema de Información en el marco de u
 Se parte de la base de un relevamiento del área a través de un organigrama, diagramas de flujos de los diversos procesos de trabajo y listando sus funciones y la manera de llevarlas a cabo. De esto surge la información necesaria para poder comprender el modus operandi del sector finanzas, lo que permite visualizar las carencias y fallas del Sistema actual implementado por dicha área, quedando detallado en el diagnóstico del sistema llevado a cabo. 
 A raíz de dicho Diagnóstico se desarrolla la propuesta de un Sistema de Información, que promete, a grandes rasgos, mejorar la toma de decisiones, eficacia, adaptabilidad, velocidad y, anteponiendo, ante todo, la reducción de la incertidumbre al brindar la información que se requiere en el momento y situación oportuna.
 En la formulación del objetivo se expone la razón de ser del sistema de manera clara y específica, del cual se desprenden los alcances, que explican las funciones de cada elemento, por el cual está compuesto el sistema, para así poder lograr el objetivo propuesto y dejando asentados los requerimientos funcionales y no funcionales del mismo.
-Como se menciona anteriormente, el presente trabajo se desarrolla en el marco de un Trabajo Práctico Integrador de la materia Metodología de Sistemas I, haciendo uso de una metodología de trabajo ágil y usando herramientas tales como Git y Trello.
+Como se menciona anteriormente, el presente trabajo se desarrolla en el marco de un Trabajo Práctico Integrador de la materia Metodología de Sistemas I, haciendo uso de una metodología de trabajo ágil y usando herramientas tales como Git y Trello, como así también,
+dividiendo el trabajo en partes menores para que sea más fácil el seguimiento y cumpliendo con los plazos requeridos para completar cada tarea.
 A partir de aquí, se realiza de manera grupal, la exposición de nuestro proyecto.
 
 Relevamiento del sistema
@@ -76,3 +77,4 @@ Brindar informacion para la realizacion y actualizacion continua de las cuentas 
 
 Limite
 Desde la creación de las cuentas contables utilizadas por la empresa hasta los reportes de los informes contables.
+
