@@ -44,6 +44,6 @@ estar el riesgo de que.....
 Hay pérdidas de tiempo....
 
 Objetivo : 
-El Objetivo es brindar informacion para la realizacion y actualizacion continua de las cuentas de la empresa necesarias para el sector de finanza , como tambien la creacion de los asientos contables con su respectivo alta, baja y modificacion. Ademas el sistema permitira calcular balance general , estado de resultado y el estado del patrimonio neto mostrando sus resultados por pantalla. Asi tambien podra generar y categorizar por tipo los montos de credito , debito , los remitos y el pago de los proveedores y se podra formular por medio del sistema los tickets o facturas que se soluciten mostrandolos en la pantalla con la opcion de imprimirlos o enviarlos por correo electronico. 
+Brindar informacion para la realizacion y actualizacion continua de las cuentas contables necesarias en la empresa Super Mami, como tambien la gestionion de los asientos contables y la gestion de bancos que utiliza la organizacion. Ademas el sistema brindara las herramientas necesarias para realizar los informes contables mostrando sus respectivos resultados por pantalla. Asi tambien podra gestionar los ingresos y gastos de la empresa. 
 
 
