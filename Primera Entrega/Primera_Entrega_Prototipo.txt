@@ -1,4 +1,4 @@
-//Merge 20200912193800 merge 110996_santiso to master//
+﻿//Merge 20200912193800 merge 110996_santiso to master//
 Introducción
 En el presente trabajo se desarrolla un Sistema de Información en el marco de un Trabajo Práctico Integrador con características formativas y evolutivas, planteado con el objetivo de cubrir las necesidades insatisfechas del área de Finanzas de la empresa SuperMami, reconociendo en él sus procesos internos y las relaciones que posee con el resto de los sectores del supermercado.
 Se parte de la base de un relevamiento del área a través de un organigrama, diagramas de flujos de los diversos procesos de trabajo y listando sus funciones y la manera de llevarlas a cabo. De esto surge la información necesaria para poder comprender el modus operandi del sector finanzas, lo que permite visualizar las carencias y fallas del Sistema actual implementado por dicha área, quedando detallado en el diagnóstico del sistema llevado a cabo. 
@@ -76,3 +76,24 @@ Brindar informacion para la realizacion y actualizacion continua de las cuentas 
 
 Limite
 Desde la creación de las cuentas contables utilizadas por la empresa hasta los reportes de los informes contables.
+
+Alcances:
+Gestion Cuenta Contable:
+-Gestionar cuentas contables(Alta,Baja,Modificacion).
+-Informar el total de cuentas contables.
+
+Gestion Banco:
+-Generar un informe de los bancos asociados con la empresa.
+-Consultar los bancos asociados con la empresa.
+-Gestionar bancos asociados con la empresa(Alta,Baja,Modificacion).
+
+Gestion Ingreso:
+- Registrar la cantidad de ingresos generado por mes.
+-Generar un grafico con los ingresos totales de cada mes.
+-Consultar la cantidad de ingresos.
+-Generar informe estadistico con los ingresos totales a lo largo del año.
+
+Gestion Gasto:
+- Registrar la cantidad de gastos producido por mes.
+-Consultar los gastos por cada mes.
+-Generar informe estadistico con los gastos producidos a lo largo del año.
