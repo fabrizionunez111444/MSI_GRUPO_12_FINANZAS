@@ -25,17 +25,12 @@ En el sector de contabilidad se realizan las tareas de:
 Las actividades antes mencionadas se realizan en Microsoft Excel a medida que sea requerido por las necesidades del área.
 Por otro lado, el sector de tesorería del área de finanzas realiza las siguientes tareas:
 •	Operaciones bancarias.
-•	Realización de notas de crédito. 
-•	Realización de notas de débito.
-•	Realización de Remitos. 
-•	Realización de Pago a proveedores.
+•	Realización de pago a proveedores.
 Estas tareas listadas se dejan asentadas en un archivo de Microsoft Excel y las tareas a continuación son hechas de manera manual:
-•	Realización de modelo de facturas.
-•	Realización de modelo de tickets.
 •	Pago de los gastos realizados por otras áreas de la empresa.
-•	Recepción del dinero recaudado en ventas al final de cada día.
+•	Recepción del dinero recaudado en ventas al final de cada día y otorgamiento del comprobante de recibo.
 Por último, detallamos los procesos más importantes del área de finanzas con otras áreas de la empresa:
-•	El área de Ventas se encarga del cierre de caja y envía el dinero recaudado diariamente al sector de finanzas, como así también, los comprobantes de pago, como lo muestra la Figura 2. 
+•	El área de Ventas se encarga del cierre de caja y envía el dinero recaudado diariamente al sector de finanzas con su respectiva documentación. Esta última área procede a emitir un recibo del dinero otorgado y hacer los asientos contables pertinentes, como lo muestra la Figura 2. 
 •	El área de Compras realiza el pedido de mercadería y le encarga al sector de tesorería reunir los documentos que constatan la compra para proceder con la recepción de dicho pedido (órdenes de compra, informe de recepción, remitos del proveedor). Luego tesorería realiza los pagos de la factura y envía la documentación al sector contable a los fines de que quede asentado el proceso de compras y, a su vez, le informa al área de compras que las facturas han sido abonadas para que ellos procedan con su circuito. Indicado en la Figura 3
 •	El área de Recursos Humanos envía al sector de finanzas el informe de los sueldos a pagar, tesorería libera el dinero requerido y contabilidad registra los pagos. (Figura 4)
 •	El área de Marketing y de Gerencia General, envía al área de finanzas el informe de los gastos que tuvo la empresa, tesorería libera el dinero requerido y contabilidad registra los pagos para llevar una correcta trazabilidad del flujo de dinero, como podemos observar en la Figura 4. 
@@ -77,4 +72,3 @@ Brindar informacion para la realizacion y actualizacion continua de las cuentas 
 
 Limite
 Desde la creación de las cuentas contables utilizadas por la empresa hasta los reportes de los informes contables.
-
