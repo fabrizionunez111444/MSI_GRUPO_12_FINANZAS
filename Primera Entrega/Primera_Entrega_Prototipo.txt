@@ -1,4 +1,4 @@
-﻿﻿//Merge 20200912193800 merge 110996_santiso to master//
+﻿//Merge 20200912193800 merge 110996_santiso to master//
 Introducción
 En el presente trabajo se desarrolla un Sistema de Información en el marco de un Trabajo Práctico Integrador con características formativas y evolutivas, planteado con el objetivo de cubrir las necesidades insatisfechas del área de Finanzas de la empresa SuperMami, reconociendo en él sus procesos internos y las relaciones que posee con el resto de los sectores del supermercado.
 Se parte de la base de un relevamiento del área a través de un organigrama, diagramas de flujos de los diversos procesos de trabajo y listando sus funciones y la manera de llevarlas a cabo. De esto surge la información necesaria para poder comprender el modus operandi del sector finanzas, lo que permite visualizar las carencias y fallas del Sistema actual implementado por dicha área, quedando detallado en el diagnóstico del sistema llevado a cabo. 
