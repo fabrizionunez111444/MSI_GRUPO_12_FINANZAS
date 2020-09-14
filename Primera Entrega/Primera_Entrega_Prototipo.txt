@@ -97,3 +97,9 @@ Gestion Gasto:
 - Registrar la cantidad de gastos producido por mes.
 -Consultar los gastos por cada mes.
 -Generar informe estadistico con los gastos producidos a lo largo del año.
+
+Gestion Asiento Contable:
+-Gestionar asientos contables(Alta,Baja,Modificacion).
+-Emitir listado del total de asientos contables.
+-Consultar asientos contables.
+-Listar asientos contables por semana.
