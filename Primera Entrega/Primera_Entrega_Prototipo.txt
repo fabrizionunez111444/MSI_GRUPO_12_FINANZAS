@@ -120,16 +120,17 @@ el sistema ofrece la posibilidad de gestionar asientos contables y ajustes conta
 Usuarios
 Diferentes usuarios, ya mostrados en la Figura 1, van a interactuar de manera cotidiana con nuestro sistema. A continuación se lista dicho usuarios, como así también, las interacciones.
 Rol de tesorero:
-Al recibir el dinero proveniente del área de ventas, el tesorero podrá, a través de un formulario en pantalla, registrar la cantidad de dinero recibido y realizar, automáticamente, un recibo de dinero el cual podrá ser firmado de manera digital y posteriormente imprimirlo, si es necesario. Este recibo de dinero será enviado, mecánicamente, a través de un aviso al área de Contabilidad para que proceda con las tareas subsiguientes.
-Por fuera del sistema, el tesorero debe realizar de manera manual el conteo de la plata y el aviso al área de ventas.
-El área de compras envía la documentación de lo que hay que pagar al área de finanzas, donde el tesorero simulará la compra  a través de un formulario en pantalla, la cual si es aceptada es realizada. Luego el sistema envía un aviso a contabilidad para que efectúe los asientos contables pertinentes.
+Al recibir el dinero proveniente del área de ventas, el tesorero podrá, a través de un formulario en pantalla, registrar la cantidad de dinero recibido y realizar
+automáticamente un recibo de dinero el cual podrá ser firmado de manera digital y posteriormente imprimirlo, si es necesario. Este recibo de dinero será enviado, mecánicamente, a través de un aviso al área de Contabilidad para que proceda con las tareas subsiguientes.
+Por fuera del sistema, el tesorero debe recaudar de manera manual el dinero ingresado entregar el comprobante a ventas.
+El área de compras envía la documentación de lo que se debe abonar al área de finanzas, donde el tesorero simulará la compra  a través de un formulario en pantalla, la cual si es aceptada es realizada. Luego el sistema envía un aviso a contabilidad para que efectúe los asientos contables pertinentes.
 Por fuera del sistema, el tesorero debe avisar al área de compras si se procedió o no, con la compra y también realizar los pagos.
-El área de marketing, recursos humanos y gerencia general envía la documentación de lo que hay que pagar al área de finanzas, donde el tesorero simulará el pago a través de un formulario en pantalla, el cual si es aceptado se realiza. Luego el sistema envía un aviso a contabilidad para que efectúe los asientos contables pertinentes.
+El área de marketing, recursos humanos y gerencia general envía la documentación de lo que se debe abonar al área de finanzas, donde el tesorero simulará el pago a través de un formulario en pantalla, el cual si es aceptado se realizará. Luego el sistema envía un aviso a contabilidad para que efectúe los asientos contables pertinentes.
 Por fuera del sistema, el tesorero debe avisar a las respectivas áreas si se procedió o no, con el pago y también realizarlos.
 Rol de contador:
 Al recibir una notificación desde el área de tesorería de un recibo de dinero proveniente de una venta, el contador podrá registrar el asiento contable correspondiente a la transacción, verificando los detalles de la misma. En el caso de ser necesario podrá editar este registro.
 Al recibir una notificación desde el área de tesorería de una compra realizada, el contador podrá registrar el asiento contable correspondiente a la compra, verificando los detalles de esta. En el caso de ser necesario podrá editar este registro.
-Al recibir una notificación desde el área de tesorería de un pago realizado, el contador podrá, registrar el asiento contable correspondiente a dicho pago, verificando los detalles de este. En el caso de ser necesario podrá editar este registro.
+Al recibir una notificación desde el área de tesorería de un pago realizado, el contador podrá , registrar el asiento contable correspondiente a dicho pago, verificando los detalles de este. En el caso de ser necesario podrá editar este registro.
 Todos los registros contables anteriormente nombrados y todos los necesarios para llevar a cabo la contabilidad de la empresa, como así también, los ajustes contables, podrán ser realizados y modificados, a través de una ventana de carga.
 Los contadores podrán realizar las conciliaciones bancarias a través de una ventana de carga.
 Rol de Jefe Técnico de Contabilidad
@@ -153,10 +154,14 @@ Reporte estadístico de los ingresos totales generados en determinado tiempo.
 Reporte de los gastos totales generados en determinado tiempo.
 Reporte estadístico de los gastos totales generados en determinado tiempo.
 Product Backlog
-El product Backlog de nuestro Sistema de Información va a estar compuesto por un theme, dos epics, de la cual de una se desprenden 2 features y de la otra 4.
+El product Backlog de nuestro Sistema de Información va a estar compuesto por un theme, dos epics:
+de una se desprenden 2 features y de la otra 4 features.
 Esto será detallado en la Figura 5.
 
 Figura 5
 Product Backlog 
 <imagen>
 Nota: El gráfico representa el Product Backlog de nuestro Sistema de Información para el área de finanzas de la empresa Supermami.
+
+
+
