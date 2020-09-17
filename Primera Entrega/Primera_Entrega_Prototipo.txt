@@ -118,19 +118,26 @@ ofreciendo poder generar reportes de cada uno,de manera diaria,semanal,mensual o
 el sistema ofrece la posibilidad de gestionar asientos contables y ajustes contables, emitiendo reportes con la informes de los mismos cuando sea requerido.
 
 Usuarios
-Diferentes usuarios, ya mostrados en la Figura 1, van a interactuar de manera cotidiana con nuestro sistema. A continuación se lista dicho usuarios, como así también, las interacciones.
+Internamente nuestro grupo se organizó en distintos roles Scrum:
+Scrum Master, Nuñez Fabrizio: encargado de facilitar la realización de ceremonias, la cooperación y el enfoque por parte del Equipo Scrum, garantizando el compromiso total del grupo. Así también, enseña las prácticas de Scrum a todos los involucrados en el proyecto y ayuda al equipo en desarrollar el producto.
+Equipo de Desarrollo, Brito Nahuel, Herrera Paola, López Miguel, Maldonado Enzo, Santiso Marina, de los cuales:
+Programador Backend, Brito Nabuel: encargado de la programación del lado del servidor.
+Diseñadora UI/UX y Programadora Frontend, Herrera Paola: delegada en definir los lineamientos visuales del producto y, a la vez, mejorar la experiencia del usuario en su interacción con el mismo. Por otro lado, también está encargada de la programación del lado del cliente.
+Programador Full-Stack, López Miguel: desarrollador con conocimientos y experiencia en Frontend y en Backend.
+Administrador de Base de Datos, Maldonado Enzo: siendo él quien dirige todas las actividades relacionadas con el mantenimiento del entorno de Base de Datos.
+Programadora Frontend y Tester, Santiso Marina: cuyas tareas son la programación del lado del cliente, como así también, asegurar que los requerimientos definidos se cumplan en la implementación del producto, informando todos los defectos encontrados.
+A su vez, diferentes usuarios externos, ya mostrados en la Figura 1, van a interactuar de manera directa y cotidiana con nuestro sistema. A continuación se lista dicho usuarios, como así también, las interacciones.
 Rol de tesorero:
-Al recibir el dinero proveniente del área de ventas, el tesorero podrá, a través de un formulario en pantalla, registrar la cantidad de dinero recibido y realizar
-automáticamente un recibo de dinero el cual podrá ser firmado de manera digital y posteriormente imprimirlo, si es necesario. Este recibo de dinero será enviado, mecánicamente, a través de un aviso al área de Contabilidad para que proceda con las tareas subsiguientes.
-Por fuera del sistema, el tesorero debe recaudar de manera manual el dinero ingresado entregar el comprobante a ventas.
+Al recibir el dinero proveniente del área de ventas, el tesorero podrá, a través de un formulario en pantalla, registrar la cantidad de dinero recibido y realizarautomáticamente un recibo de dinero el cual podrá ser firmado de manera digital y posteriormente imprimirlo, si es necesario. Este recibo de dinero será enviado, mecánicamente, a través de un aviso al área de Contabilidad para que proceda con las tareas subsiguientes.
+Por fuera del sistema, el tesorero debe recaudarde manera manual el dinero ingresado y entregar el comprobante a ventas.
 El área de compras envía la documentación de lo que se debe abonar al área de finanzas, donde el tesorero simulará la compra  a través de un formulario en pantalla, la cual si es aceptada es realizada. Luego el sistema envía un aviso a contabilidad para que efectúe los asientos contables pertinentes.
 Por fuera del sistema, el tesorero debe avisar al área de compras si se procedió o no, con la compra y también realizar los pagos.
-El área de marketing, recursos humanos y gerencia general envía la documentación de lo que se debe abonar al área de finanzas, donde el tesorero simulará el pago a través de un formulario en pantalla, el cual si es aceptado se realizará. Luego el sistema envía un aviso a contabilidad para que efectúe los asientos contables pertinentes.
+El área de marketing, recursos humanos y gerencia general envía la documentación de lo que se debe abonar r al área de finanzas, donde el tesorero simulará el pago a través de un formulario en pantalla, el cual si es aceptado se realizará. Luego el sistema envía un aviso a contabilidad para que efectúe los asientos contables pertinentes.
 Por fuera del sistema, el tesorero debe avisar a las respectivas áreas si se procedió o no, con el pago y también realizarlos.
 Rol de contador:
 Al recibir una notificación desde el área de tesorería de un recibo de dinero proveniente de una venta, el contador podrá registrar el asiento contable correspondiente a la transacción, verificando los detalles de la misma. En el caso de ser necesario podrá editar este registro.
 Al recibir una notificación desde el área de tesorería de una compra realizada, el contador podrá registrar el asiento contable correspondiente a la compra, verificando los detalles de esta. En el caso de ser necesario podrá editar este registro.
-Al recibir una notificación desde el área de tesorería de un pago realizado, el contador podrá , registrar el asiento contable correspondiente a dicho pago, verificando los detalles de este. En el caso de ser necesario podrá editar este registro.
+Al recibir una notificación desde el área de tesorería de un pago realizado, el contador podrá registrar el asiento contable correspondiente a dicho pago, verificando los detalles de este. En el caso de ser necesario podrá editar este registro.
 Todos los registros contables anteriormente nombrados y todos los necesarios para llevar a cabo la contabilidad de la empresa, como así también, los ajustes contables, podrán ser realizados y modificados, a través de una ventana de carga.
 Los contadores podrán realizar las conciliaciones bancarias a través de una ventana de carga.
 Rol de Jefe Técnico de Contabilidad
@@ -154,8 +161,7 @@ Reporte estadístico de los ingresos totales generados en determinado tiempo.
 Reporte de los gastos totales generados en determinado tiempo.
 Reporte estadístico de los gastos totales generados en determinado tiempo.
 Product Backlog
-El product Backlog de nuestro Sistema de Información va a estar compuesto por un theme, dos epics:
-de una se desprenden 2 features y de la otra 4 features.
+El product Backlog de nuestro Sistema de Información va a estar compuesto por un theme, dos epics: de una se desprenden 2 features y de la otra 4 features.
 Esto será detallado en la Figura 5.
 
 Figura 5
@@ -163,5 +169,52 @@ Product Backlog
 <imagen>
 Nota: El gráfico representa el Product Backlog de nuestro Sistema de Información para el área de finanzas de la empresa Supermami.
 
+Requerimientos Funcionales:
+
+-Gestion cuentas contables
+El sistema permitirá dar de alta un cuenta contable teniendo como requisitos obligatorio el nombre y como no obligatorios número de la cuenta y descripción
+El sistema permitirá eliminar una cuenta contable creada anteriormente, solo si no está siendo utilizada en ningún asiento contable
+El sistema permitirá modificar una cuenta contable mientras se haya modificado información en esta y los campos obligatorios se encuentran completos
+El sistema permitirá desactivar una cuenta contable de ser necesario
+El sistema podrá generar un reporte del saldo de la cuenta seleccionada
+El sistema permitirá clasificar las cuentas contables en categorías, las cuales son: activo, pasivo, patrimonio neto, resultado negativo, resultado positivo
+El sistema podrá generar un reporte de las categorías de las cuentas contables donde se mostraran las transacciones realizadas sobre esas cuentas
+El sistema podrá mostrar el detalle de las transacciones realizadas sobre una cuenta
+
+-Gestion Bancos
+El sistema generará un listado de  los bancos asociados con la empresa
+El sistema permitirá dar de alta una cuenta bancaria, teniendo como datos obligatorios el tipo de cuenta, nombre de la cuenta, saldo inicial, fecha y como no obligatorio el numero de la cuenta y una descripción
+El sistema permitirá eliminar una cuenta bancaria creada anteriormente
+El sistema permitirá modificar una cuenta bancaria mientras se haya modificado información en esta y los campos obligatorios se encuentren completos
+El sistema permitirá visualizar el detalle de las transacciones realizadas en la cuenta bancaria seleccionada
+El sistema permitirá registrar una conciliación bancaria de la cuenta seleccionada teniendo como campo obligatorio el saldo final y como no obligatorios los gastos bancarios, impuestos bancarios, entradas bancarias
+El sistema permitirá modificar una conciliación bancaria mientras se haya modificado información en esta y los campos obligatorios se encuentren completos
+
+-Gestion Asiento Contable
+El sistema permitirá registrar un asiento contable siendo obligatorio que se seleccione, mínimamente, dos cuenta, las cuales deberán ser de distinto saldo (deudor y acreedor) y donde, además, la suma total del debe sea igual a la suma total del haber. Por otro lado, el campo nota deberá estar completo.
+El sistema permitirá modificar un asiento contable mientras se haya modificado información en este y los requisitos obligatorios se encuentren satisfechos
+El sistema permitirá generar un reporte de los asientos contables seleccionados
+El sistema permitirá registrar un ajuste contable  siendo obligatorio que se seleccione, mínimamente, dos cuenta, las cuales deberán ser de distinto saldo (deudor y acreedor) y donde, además,la suma total del debe sea igual a la suma total del haber. Por otro lado, el campo descripción será no obligatorio.
+El sistema permitirá modificar un ajuste contable mientras se haya modificado información en este y los requisitos obligatorios se encuentren satisfechos
+El sistema permitirá generar un reporte de los ajustes contables seleccionados
+
+-Gestion Ingreso
+El sistema permitirá registrar un ingreso siendo obligatorio que se llene el campo de la cuenta contable pertinente, la fecha, el método de pago y, tambien, a que cuenta va dirigida el dinero. Como campo no obligatorio se tiene a la nota del ingreso.
+El sistema permitirá modificar un ingreso mientras se haya modificado información en este y los campos obligatorios se encuentren completos
+El sistema en caso de ser necesario generará un recibo por el ingreso registrado
+El sistema permitirá generar un reporte de los ingresos totales generados en determinado tiempo (diario, semanal, mensual, anual)
+El sistema permitirá generar un reporte estadístico  de los ingresos totales generados en determinado tiempo (diario, semanal, mensual, anual)
+
+-Gestion Gasto
+El sistema permitirá registrar un gasto siendo obligatorio que se llene el campo proveedor, la fecha, el método de pago, y la cuenta contable pertinente. Como campo no obligatorio se tiene a la nota del gasto 
+El sistema permitirá modificar un gasto mientras se haya modificado información en este y los campos obligatorios se encuentren completos
+El sistema permitirá generar un reporte de los gastos totales generados en determinado tiempo (diario, semanal, mensual, anual)
+El sistema permitirá generar un reporte estadístico  de los gastos totales generados en determinado tiempo (diario, semanal, mensual, anual)
+
+-Gestion de Informes Contables
+El sistema permitirá generar reportes del Estado de resultado
+El sistema permitirá generar reportes del Balance general
+El sistema permitirá generar reportes del Libro diario
+El sistema permitirá generar reportes del Libro mayor
 
 
